@@ -56,7 +56,7 @@ The last reason why I wanted to write my own series of courses is out of selfint
 
 ## Disclaimer
 
-I'm currently still debating what License I should take on all the information provided. For now all information is accessiable for everyone free of charge. All information will remain free for educational purposes also. The only thing that might happen in the future is that I would bundle and release them in other formats as well. Please note that I do not take responsibility for any errrors or wrong thoughtprocesses whatsoever. I do not claim to know everything and I might, and as a matter of fact, will make errors. But that shouldn't be a problem if you get the whole point of the NIE-series!
+~~I'm currently still debating what License I should take on all the information provided. For now all information is accessiable for everyone free of charge.~~ I took the liberty to use the MIT License. All information will remain free for educational purposes also. The only thing that might happen in the future is that I would bundle and release them in other formats as well. Please note that I do not take responsibility for any errrors or wrong thoughtprocesses whatsoever. I do not claim to know everything and I might, and as a matter of fact, will make errors. But that shouldn't be a problem if you get the whole point of the NIE-series! ;)
 
 
 ## Contributions
