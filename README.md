@@ -10,8 +10,8 @@ Welcome to the overview page of the NIE-series (Nothing Is Easy).
 | NIE-Perl                     | A practical guide to perl | English | Soon | In production | / |
 | NIE-Algorithms-I             | Introduction to algorithms in programming, sorting algorithms and datastructures. | English | Soon | In production | / |
 | NIE-System-Calls             | Theoratical and practical look at Unix system calls | English | Soon | In production | / |
-| NIE-Statistics               | Summary of some core elements of statistics | Dutch | Soon | In production | / |
-| NIE-Mathematics-B            | Ignore the B. The subjects are: Differential equations, Laplace transformations and Series expansions. | Dutch | Soon | In production | / |
+| NIE-Statistics               | Summary of some core elements of statistics | Dutch | [Link](https://github.com/Ciberth/NIE-Statistics) | In production | / |
+| NIE-Mathematics-B            | Ignore the B. The subjects are: Differential equations, Laplace transformations and Series expansions. | Dutch | [Link](https://github.com/Ciberth/NIE-Mathematics-B) | In production | / |
 | NIE-Projectmanagement        | Practical approach and analysis of projectmanagement with dynamic scheduling | English | / | Planning to | / |
 | NIE-Introduction-to-cpp      | C++ essential overview and exercises | English | / | July 2017 | / |
 | NIE-Introduction-to-android  | Overview of the OS + basic programming paradigms and exercises | English | / | July 2017 | / |
