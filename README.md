@@ -9,7 +9,7 @@ Welcome to the overview page of the NIE-series (Nothing Is Easy).
 | NIE-Overview                 | What is this NIE all about? | English | Null | Completed | [Link](https://github.com/Ciberth/NIE-Overview)|
 | NIE-Perl                     | A practical guide to perl | English | Soon | In production | / |
 | NIE-Algorithms-I             | Introduction to algorithms in programming, sorting algorithms and datastructures. | English | Soon | In production | / |
-| NIE-System-Calls-And-Unix-Intro             | Theoratical and practical look at Unix system calls | English | Soon | In production | / |
+| NIE-System-Calls-And-Unix-Intro | Theoratical and practical look at Unix system calls & unix (os) introduction & a practical bash overview | English | Soon | In production | / |
 | NIE-Statistics               | Summary of some core elements of statistics | Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-statistics/details) | In production | [Link](https://github.com/Ciberth/NIE-Statistics) |
 | NIE-Mathematics-B            | Ignore the B. The subjects are: Differential equations, Laplace transformations and Series expansions. | Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-mathematics-b/details) | In production | [Link](https://github.com/Ciberth/NIE-Mathematics-B) |
 | NIE-Projectmanagement        | Practical approach and analysis of projectmanagement with dynamic scheduling | English | / | Planning to | / |
