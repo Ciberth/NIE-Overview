@@ -12,7 +12,8 @@ Welcome to the overview page of the NIE-series (Nothing Is Easy).
 | NIE-System-Calls-And-Unix-Intro | Theoratical and practical look at Unix system calls & unix (os) introduction & a practical bash overview | English | Soon | In production | / |
 | NIE-Statistics               | Summary of some core elements of statistics | Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-statistics/details) | In production | [Link](https://github.com/Ciberth/NIE-Statistics) |
 | NIE-Mathematics-B            | Ignore the B. The subjects are: Differential equations, Laplace transformations and Series expansions. | Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-mathematics-b/details) | In production | [Link](https://github.com/Ciberth/NIE-Mathematics-B) |
-| NIE-Projectmanagement        | Practical approach and analysis of projectmanagement with dynamic scheduling | English | / | Planning to | / |
+| NIE-Projectmanagement        | Practical approach and analysis of projectmanagement with dynamic scheduling | English | / | In production | / |
+| NIE-Klasmanagement-en-reflectie | Samenvatting voor het vak: Klasmanagement en reflectie | Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-klasmanagement-en-reflectie/details) | In production | [Link](https://github.com/Ciberth/NIE-Klasmanagement-en-reflectie) |
 | NIE-Introduction-to-cpp      | C++ essential overview and exercises | English | / | July 2017 | / |
 | NIE-Introduction-to-android  | Overview of the OS + basic programming paradigms and exercises | English | / | July 2017 | / |
 | NIE-Introduction-to-distributed-systems | Theoratical approach to the different approaches to tackle distributed systems | Dutch | [Temporary](https://ciberth.gitbooks.io/gedistribueerde-samenvatting/) | July 2017 | / |
