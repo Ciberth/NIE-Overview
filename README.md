@@ -5,20 +5,20 @@ Welcome to the overview page of the NIE-series (Nothing Is Easy).
 ## Overview
 
 |           **Title**          | **Description** | **Language** | **Gitbook url** | **Status** | **Github url** |
-|:----------------------------:|:---------------:|:------------:|:---------------:|:----------:|:--------------:|
-| NIE-Overview                 | What is this NIE all about? | English | Null | Completed | [Link](https://github.com/Ciberth/NIE-Overview)|
-| NIE-Perl                     | A practical guide to perl | English | Soon | In production | / |
-| NIE-Algorithms-I             | Introduction to algorithms in programming, sorting algorithms and datastructures. | English | Soon | In production | / |
-| NIE-System-Calls-And-Unix-Intro | Theoratical and practical look at Unix system calls & unix (os) introduction & a practical bash overview | English | Soon | In production | / |
-| NIE-Statistics               | Summary of some core elements of statistics | Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-statistics/details) | In production | [Link](https://github.com/Ciberth/NIE-Statistics) |
-| NIE-Mathematics-B            | Ignore the B. The subjects are: Differential equations, Laplace transformations and Series expansions. | Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-mathematics-b/details) | In production | [Link](https://github.com/Ciberth/NIE-Mathematics-B) |
-| NIE-Projectmanagement        | Practical approach and analysis of projectmanagement with dynamic scheduling | English | / | In production | / |
-| NIE-Klasmanagement-en-reflectie | Samenvatting voor het vak: Klasmanagement en reflectie | Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-klasmanagement-en-reflectie/details) | In production | [Link](https://github.com/Ciberth/NIE-Klasmanagement-en-reflectie) |
-| NIE-Introduction-to-cpp      | C++ essential overview and exercises | English | / | July 2017 | / |
-| NIE-Introduction-to-android  | Overview of the OS + basic programming paradigms and exercises | English | / | July 2017 | / |
-| NIE-Introduction-to-distributed-systems | Theoratical approach to the different approaches to tackle distributed systems | Dutch | [Temporary](https://ciberth.gitbooks.io/gedistribueerde-samenvatting/) | July 2017 | / |
-| NIE-Getting-start-with-vim   | A written journey with the editor vim | English | / | Future plans | / |
-| NIE-Getting-start-with-emacs | A written journey with the editor emacs | English | / | Future plans | / |
+|:-----------------------------|:---------------:|:------------:|:---------------:|:----------:|:--------------:|
+| Overview                     | What is this NIE all about? | English | Null | Completed | [Link](https://github.com/Ciberth/NIE-Overview)|
+| Perl                         | A practical guide to perl | English | Soon | In production | / |
+| Algorithms-I                 | Introduction to algorithms in programming, sorting algorithms and datastructures. | English/Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-algorithms-i/) | In production | [Link](https://github.com/Ciberth/NIE-Algorithms-I/) |
+| System-Calls-And-Unix-Intro  | Theoratical and practical look at Unix system calls & unix (os) introduction & a practical bash overview | English | [Link](https://www.gitbook.com/book/ciberth/nie-system-calls-and-unix-intro/details) | In production | [Link](https://github.com/Ciberth/NIE-System-Calls-And-Unix-Intro) |
+| Statistics                   | Summary of some core elements of statistics | Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-statistics/details) | In production | [Link](https://github.com/Ciberth/NIE-Statistics) |
+| Mathematics-B                | Ignore the B. The subjects are: Differential equations, Laplace transformations and Series expansions. | Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-mathematics-b/details) | In production | [Link](https://github.com/Ciberth/NIE-Mathematics-B) |
+| Projectmanagement            | Practical approach and analysis of projectmanagement with dynamic scheduling | English | / | In production | / |
+| Klasmanagement-en-reflectie  | Samenvatting voor het vak: Klasmanagement en reflectie | Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-klasmanagement-en-reflectie/details) | In production | [Link](https://github.com/Ciberth/NIE-Klasmanagement-en-reflectie) |
+| Introduction-to-cpp          | C++ essential overview and exercises | English | / | Summer 2017 | / |
+| Introduction-to-android      | Overview of the OS + basic programming paradigms and exercises | English | / | Summer 2017 | / |
+| Introduction-to-distributed-systems | Theoratical approach to the different approaches to tackle distributed systems | Dutch | [Temporary](https://ciberth.gitbooks.io/gedistribueerde-samenvatting/) | Summer 2017 | / |
+| Getting-start-with-vim       | A written journey with the editor vim | English | / | Future plans | / |
+| Getting-start-with-emacs     | A written journey with the editor emacs | English | / | Future plans | / |
 
 
 Note that when I use the term **"completed"**, I by no means suggest I covered everything concerning the subject. It only means I am done working on it for the time being. When it says **"coming up"**, I am planning on tackling it. **"In production"** means I am working on it right now. 
