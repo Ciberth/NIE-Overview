@@ -7,7 +7,11 @@ Welcome to the overview page of the NIE-series (Nothing Is Easy).
 |           **Title**          | **Description** | **Language** | **Gitbook url** | **Status** | **Github url** |
 |:-----------------------------|:---------------:|:------------:|:---------------:|:----------:|:--------------:|
 | Overview                     | What is this NIE all about? | English | Null | Completed | [Link](https://github.com/Ciberth/NIE-Overview)|
-| Perl                         | A practical guide to perl | English | Soon | In production | / |
+| OS-Windows                   | WMI & LDAP (UGent) | Mixed | [Link](https://ciberth.gitbooks.io/nie-os-windows/content/) | In production | [Link](https://github.com/Ciberth/NIE-OS-Windows) |
+| Security                     | Beveiliging van netwerken en computers (UGent) | Mixed | [Link](https://ciberth.gitbooks.io/nie-security/content/) | In production | [Link](https://github.com/Ciberth/NIE-Security) |
+| Advanced-Algorithms          | Algo 2 (UGent) | Mixed | [Link](https://ciberth.gitbooks.io/nie-advanced-algorithms/content/) | In production | [Link](https://github.com/Ciberth/NIE-Advanced-Algorithms) |
+| Systeemontwerp               | Systeemontwerp (UGent) | Mixed | [Link](https://ciberth.gitbooks.io/nie-systeemontwerp/content/) | In production | [Link](https://github.com/Ciberth/NIE-Systeemontwerp) |
+| Perl                         | A practical guide to perl | English | [Link](https://ciberth.gitbooks.io/nie-perl/content/) | Semi-done | [Link](https://github.com/Ciberth/NIE-Perl) |
 | Algorithms-I                 | Introduction to algorithms in programming, sorting algorithms and datastructures. | English/Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-algorithms-i/) | In production | [Link](https://github.com/Ciberth/NIE-Algorithms-I/) |
 | System-Calls-And-Unix-Intro  | Theoratical and practical look at Unix system calls & unix (os) introduction & a practical bash overview | English | [Link](https://www.gitbook.com/book/ciberth/nie-system-calls-and-unix-intro/details) | In production | [Link](https://github.com/Ciberth/NIE-System-Calls-And-Unix-Intro) |
 | Statistics                   | Summary of some core elements of statistics | Dutch | [Link](https://www.gitbook.com/book/ciberth/nie-statistics/details) | In production | [Link](https://github.com/Ciberth/NIE-Statistics) |
